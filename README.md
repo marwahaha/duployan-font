@@ -101,7 +101,7 @@ Should it be transcribed as O or as Ou/Ow?
 The example of Romanian U (whose medial form looks like Ow) suggests it should be Ou.
 There is a tooth in the medial form where it is convenient to write, like in TOuS.
 But how are we to distinguish “tout de même” from “tout le monde”
-(<http://www.musique-ancienne.fr/duploye/TP/abrev/abreviation.html>)?
+(<http://www.musique-ancienne.fr/duploye/TP/abrev/abbreviation.html>)?
 Perrault-en explicitly says it is a replacement (rule 25) i.e. a different letter.
 
 Are the medial nasals misanalyzed?
